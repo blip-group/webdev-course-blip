@@ -1,0 +1,11 @@
+.tarjeta {
+  background-color: lightyellow
+  padding: 20px;
+  border-radius: 12px;
+  border: 2px solid orange;
+  text-align: center;
+}
+
+.boton {
+  color: darkgreen;
+}
