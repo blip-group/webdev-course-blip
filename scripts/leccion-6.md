@@ -1,7 +1,7 @@
 # Guion de la Lección 6 · ¡Mi código no funciona!
 
 **Curso:** Fundamentos de Desarrollo Web · **Lección 6 de 6** · **Editor:** CodePen
-**Duración:** unos 10 minutos · **Público:** estudiantes de 12 a 17 años, sin experiencia previa.
+**Duración:** unos 10 minutos (10:15) · **Público:** estudiantes de 12 a 17 años, sin experiencia previa.
 
 Este es el texto de la narración y lo que se ve en pantalla en cada escena. Entre corchetes van las indicaciones; no se leen en voz alta.
 
@@ -11,15 +11,15 @@ Este es el texto de la narración y lo que se ve en pantalla en cada escena. Ent
 
 | # | Escena | Minuto | Duración aprox. |
 |---|---|---|---|
-| 1 | Gancho | 0:00 | 0:45 |
-| 2 | El método de 3 pasos | 0:45 | 1:00 |
-| 3 | Error 1 · Etiqueta sin cerrar | 1:45 | 1:05 |
-| 4 | Error 2 · Nombre mal escrito | 2:50 | 0:50 |
-| 5 | Error 3 · Falta el punto y coma | 3:40 | 1:05 |
-| 6 | Error 4 · Comilla sin cerrar | 4:45 | 0:50 |
-| 7 | Error 5 · El estilo no se aplica | 5:35 | 0:40 |
-| 8 | Reto "Encuentra el error" | 6:15 | 2:15 |
-| 9 | Cierre y próximos pasos | 8:30 | 1:30 |
+| 1 | Gancho | 0:00 | 0:47 |
+| 2 | El método de 3 pasos | 0:47 | 0:57 |
+| 3 | Error 1 · Etiqueta sin cerrar | 1:44 | 0:58 |
+| 4 | Error 2 · Nombre mal escrito | 2:42 | 0:52 |
+| 5 | Error 3 · Falta el punto y coma | 3:34 | 0:57 |
+| 6 | Error 4 · Comilla sin cerrar | 4:31 | 0:54 |
+| 7 | Error 5 · El estilo no se aplica | 5:25 | 0:57 |
+| 8 | Reto "Encuentra el error" | 6:22 | 2:24 |
+| 9 | Cierre y próximos pasos | 8:46 | 1:29 |
 
 ---
 
