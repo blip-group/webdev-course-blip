@@ -1,0 +1,56 @@
+/* Estilos generales de la página */
+body {
+  margin: 0;
+  padding: 40px 16px;
+  font-family: Arial, sans-serif;
+  background-color: #eaf2ff;
+}
+
+/* La tarjeta */
+.tarjeta {
+  max-width: 380px;
+  margin: 0 auto;
+  padding: 28px;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 8px 24px #b8c9e0;
+}
+
+/* La foto de perfil, circular */
+.foto {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* Títulos */
+h1, h2 {
+  color: #1e3a8a;
+}
+
+/* Descripción */
+.descripcion {
+  color: #0d1015;
+  line-height: 1.6;
+}
+
+/* Lista de gustos */
+.gustos {
+  display: inline-block;
+  text-align: left;
+  line-height: 1.8;
+  padding-left: 24px;
+}
+
+/* Botón (es un enlace con estilo) */
+.boton {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #2563eb;
+  color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  font-weight: bold;
+}
