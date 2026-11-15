@@ -1,24 +1,24 @@
 /* Color del título */
 h1 {
-    color: #6c5ce7;
+  color: #6c5ce7;
 }
 
 /* La tarjeta: fondo, tipografía, esquinas, texto centrado, tamaño y espacios */
 .tarjeta {
-    background-color: #cdc9e9;
-    font-family: Arial, Helvetica, sans-serif;
-    border-radius: 15px;
-    text-align: center;
-    width: 300px;
-    padding: 20px;
-    margin: 40px auto;
+  background-color: #cdc9e9;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  text-align: center;
+  width: 300px;
+  padding: 20px;
+  margin: 40px auto;
 }
 
 /* El botón */
 button {
-    background-color: #6152d1;
-    color: white;
-    border: none;
-    border-radius: 10px;
-    padding: 10px 20px;
+  background-color: #6152d1;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
 }
