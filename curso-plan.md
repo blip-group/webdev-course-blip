@@ -9,7 +9,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
 
-**Repositorio de código fuente**: [https://github.com/blip-group/webdev-course-blip](https://github.com/blip-group/webdev-course-blip)
+**📂 Repositorio de código fuente**: [https://github.com/blip-group/webdev-course-blip](https://github.com/blip-group/webdev-course-blip)
 
 ## Secuencia de la lección
 
@@ -18,35 +18,35 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=uy8rh0TEGNA)
 - **Consejos clave**: El navegador lee el código y lo convierte en una página. HTML = esqueleto (se escribe con etiquetas) y CSS = apariencia.
 - **Empieza a programar (opcional)**: [Abrir el editor y escribir tu propio «Hola, mundo»](https://jsfiddle.net/blip_group/xgc6m845/)
-  **¡No necesitas registrarte!**
+👈 **¡No necesitas registrarte!**
 
 ### Lección 2: Mi primera etiqueta HTML (7 minutos)
 - **Descripción**: Abre un editor en línea y escribe tus primeras etiquetas: títulos, párrafos, negrita y cursiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=fUV6xnASGyI)
 - **Consejos clave**: Una etiqueta se abre con `<h1>` y se cierra con `</h1>`. Hay seis títulos, de `h1` a `h6`. Usa `p` para párrafos, `strong` para la negrita e `i` para la cursiva.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/blip_group/c4gayejb/)
-  **¡No necesitas registrarte!**
+👈 **¡No necesitas registrarte!**
 
 ### Lección 3: Enlaces, imágenes seguras y listas interactivas (8 minutos)
 - **Descripción**: Crea un catálogo con una lista con viñetas, una lista numerada, una imagen de internet y un enlace a otro sitio.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=lyOYczb5PSs)
 - **Consejos clave**: Usa `ul` y `ol` con `li` para las listas, `img` con `src` y `alt` para las imágenes (con direcciones seguras de Unsplash o Wikimedia) y `a` con `href` para los enlaces.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/blip_group/x47ykL8h/)
-  **¡Comienza al instante!**
+👈 **¡Comienza al instante!**
 
 ### Lección 4: Pintando y decorando con CSS (13 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores (nombres y códigos HEX), fondos, tipografías, bordes redondeados y texto centrado.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=61pSMtJEzLA)
 - **Consejos clave**: Cada propiedad de CSS termina con `;`. Usa `color`, `background-color`, `font-family`, `border-radius` y `text-align`. Un punto antes del nombre (`.tarjeta`) elige una clase de HTML.
 - **Práctica**: [Aplicar estilo con un clic](https://jsfiddle.net/blip_group/y6k2bsaw/)
-  **¡No necesitas registrarte!**
+👈 **¡No necesitas registrarte!**
 
 ### Lección 5: Construyamos una página de perfil personal (14 minutos)
 - **Descripción**: Une HTML y CSS en un solo proyecto: una tarjeta de presentación con foto, nombre, descripción, gustos y un botón. Al final la personalizas con tu nombre y tu foto.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=nwqSummNcPo)
 - **Consejos clave**: Prueba tu código cada pocas líneas para ver el resultado. Las clases (`class`) te permiten darle estilo a cada parte.
 - **Proyecto final**: [Crea tu perfil](https://jsfiddle.net/blip_group/p796xzum/)
-  **¡Guarda y comparte!**
+👈 **¡Guarda y comparte!**
 
 ### Lección 6: ¡Mi código no funciona! (10 minutos)
 - **Descripción**: Aprende a depurar: un método de 3 pasos, los 5 errores más comunes de quienes empiezan y un reto para practicar.
@@ -54,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Consejos clave**: Mira, busca la pista y cambia una sola cosa a la vez.
 - **Práctica**: [Reto «Encuentra el error»](https://jsfiddle.net/blip_group/4nys3q76/)
 - **Guía**: [Guía de depuración](guia-depuracion.md)
-  **¡No necesitas registrarte!**
+👈 **¡No necesitas registrarte!**
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/blip-group/webdev-course-blip)
@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-## Elaboración
+## 👥 Elaboración
 
 Universidad Peruana de Ciencias Aplicadas  
 Carrera de Ingeniería de Software  
